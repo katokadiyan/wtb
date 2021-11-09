@@ -1,0 +1,24 @@
+.VendorList {
+    padding: 15px, 10px, 15px;
+    margin-bottom: 0;
+    line-height: 1.2;
+    color: #636363;
+    letter-spacing: -.02em;
+    text-align: center;
+    background-color: #fff;
+    font-size: 36px !important;
+    font-weight: normal !important;
+    font-family: "HelveticaNeue_light", Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.inner-page-container {
+    font-family: 'HelveticaNeue_Light', Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #636363;
+    font-size: 35px !important;
+    line-height: 43px;
+    padding: 0;
+    font-weight: normal !important;
+    margin: 0 0 20px 0;
+}
